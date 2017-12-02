@@ -56,3 +56,13 @@ a:hover {
 .fa.fa-trash:hover {
 	color: red;
 }
+
+h3 {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.custom-select {
+	margin-right: 10px;
+}
+
